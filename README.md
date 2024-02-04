@@ -13,4 +13,4 @@ The Movie Recommendation System is designed to provide personalized movie recomm
 - Recommendation engine based on collaborative filtering
 - Docker containerization for easy deployment and scalability
 
-###Refernce from Kishan Lal
+###Reference from Kishan Lal Project
